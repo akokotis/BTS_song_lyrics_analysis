@@ -16,3 +16,10 @@ Using keyword extraction method RAKE and English-translated song lyrics, I extra
 - cleans the dataset and gets it ready for keyword extraction analysis
 - RAKE method for keyword extraction
 - outputs table of top English keywords per song
+
+### Resources
+**How to Get started with Genius API**: https://towardsdatascience.com/song-lyrics-genius-api-dcc2819c29
+
+**Genius API documentation**: https://docs.genius.com/#referents-h2
+
+**Official lyricsgenius documentation**: https://lyricsgenius.readthedocs.io/en/master/index.html
