@@ -9,6 +9,8 @@ Using keyword extraction method RAKE and English-translated song lyrics, I extra
 *GeniusLyrics_Get English Translation Lyrics.ipynb*
  - gets the English Translated lyrics of BTS songs using the Genius API
  - outputs a uncleaned dataframe of songs with lyrics and metadata
+![This is an image of some BTS song titles](bts_python_image1.jpg)
+
 
 *BTS keyword extraction.ipynb*
 - cleans the dataset and gets it ready for keyword extraction analysis
