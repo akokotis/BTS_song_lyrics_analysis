@@ -17,6 +17,15 @@ Using keyword extraction method RAKE and English-translated song lyrics, I extra
 - RAKE method for keyword extraction
 - outputs table of top English keywords per song
 
+**Keywords from song *DNA***
+![This is an image of keywords from song DNA](keywords_DNA.jpg)
+
+**From album *BTS - MAP OF THE SOUL***
+![This is an image of keywords from albums Map of the Soul](keywords_Map of the Soul album.jpg)
+
+**From album *BTS - Love Yourself 轉 ‘Tear’***
+![This is an image of keywords from album Love Yourself: Tear](keywords_Love Yourself Tear album.jpg)
+
 ### Resources
 **How to Get started with Genius API**: https://towardsdatascience.com/song-lyrics-genius-api-dcc2819c29
 
